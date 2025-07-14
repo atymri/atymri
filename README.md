@@ -45,7 +45,6 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=true&order=1" height="300" alt="stats graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
