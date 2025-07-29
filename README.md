@@ -1,5 +1,5 @@
 # Amir Mahdi Teymouri
-## Backend Developer | .NET Specialist 
+## Backend Developer | .NET 
 
 ---
 
