@@ -1,13 +1,4 @@
-<br clear="both">
-
-<div align="left">
-</div>
-
-###
-
-<br clear="both">
-
-<h3 align="left">Back-End Developer ,building web applications with ASP.NET Core (MVC & Web API).<br>Focused on maintainable architecture with SOLID principles and Clean Architecture.</h3>
+<p align="left">Back-End Developer ,building web applications with ASP.NET Core (MVC & Web API).<br>Focused on maintainable architecture with SOLID principles and Clean Architecture.</p>
 
 ###
 
@@ -23,12 +14,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
 </div>
 
-###
-
+##
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="155" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=atymri&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=github-dark&area=true&order=5&hide_border=true&line=39d353&area_color=39d353" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="300" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=atymri&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=github-dark&area=true&order=5&hide_border=true&line=39d353&area_color=39d353" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
