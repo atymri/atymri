@@ -21,22 +21,21 @@ Focused on maintainable architecture with SOLID principles and Clean Architectur
 
 ###
 
+<!-- نمودارها -->
+<div align="center" style="max-width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-<div align="center">
+  <!-- Stats و Streak کنار هم با border و shadow -->
+  <div style="flex: 1 1 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
+    <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" style="width: 100%; height: auto; border-radius: 8px;" alt="stats graph" />
+  </div>
 
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="300" alt="stats graph" />
-      </td>
-      <td align="center">
-        <img src="https://streak-stats.demolab.com?user=atymri&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="300" alt="streak graph" />
-      </td>
-    </tr>
-  </table>
+  <div style="flex: 1 1 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
+    <img src="https://streak-stats.demolab.com?user=atymri&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" style="width: 100%; height: auto; border-radius: 8px;" alt="streak graph" />
+  </div>
 
-  <br>
+</div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=github-dark&area=true&hide_border=true&line=39d353&area_color=39d353" height="250" alt="activity graph"  />
-
+<!-- نمودار فعالیت تمام عرض با border و shadow -->
+<div style="margin-top: 20px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e; max-width: 920px; margin-left: auto; margin-right: auto;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=github-dark&area=true&hide_border=true&line=39d353&area_color=39d353" style="width: 100%; height: auto; border-radius: 8px;" alt="activity graph" />
 </div>
