@@ -24,12 +24,12 @@ Focused on maintainable architecture with SOLID principles and Clean Architectur
 <!-- نمودارها -->
 <div align="center" style="max-width: 100%; display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <!-- Stats و Streak کنار هم با border و shadow -->
-  <div style="flex: 1 1 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
+  <!-- Stats و Streak کنار هم در دسکتاپ -->
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
     <img src="https://github-readme-stats.vercel.app/api?username=atymri&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" style="width: 100%; height: auto; border-radius: 8px;" alt="stats graph" />
   </div>
 
-  <div style="flex: 1 1 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 500px; text-align: center; border: 1px solid #444; border-radius: 10px; padding: 10px; box-shadow: 0 4px 10px rgba(0,0,0,0.3); background-color: #1e1e1e;">
     <img src="https://streak-stats.demolab.com?user=atymri&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" style="width: 100%; height: auto; border-radius: 8px;" alt="streak graph" />
   </div>
 
