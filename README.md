@@ -36,7 +36,7 @@ Focused on maintainable architecture with SOLID principles and Clean Architectur
   </table>
 
   <br>
-
+<!--
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atymri&radius=0&theme=github-dark&area=true&hide_border=true&line=39d353&area_color=39d353" height="250" alt="activity graph"  />
-
+-->
 </div>
