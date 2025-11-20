@@ -1,7 +1,5 @@
 
-# Hi, This is Amir Mahdi
-
-Backend Developer from Iran
+<img src="header.png"/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amirmahdi-teymouri-6994952ba/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/atymri)
