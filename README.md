@@ -39,6 +39,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="30" alt="Git logo" />
   </div>
 
+---
+
   <!-- GitHub Stats + Streak in Table (Right) -->
   <table style="border: none; border-collapse: collapse;">
     <tr>
@@ -53,6 +55,5 @@
 </div>
 
 
----
 
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atymri&theme=github_dark" alt="activity graph" />
