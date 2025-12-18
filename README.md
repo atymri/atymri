@@ -18,14 +18,14 @@
 <img align="right" width="45%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 >I’m a backend developer focused on **building fast, scalable, and maintainable systems** using the .NET ecosystem I care deeply about **architecture quality**, **performance**, and **long‑term maintainability**. I enjoy designing systems that stay clean under pressure and scale without surprises.
-
+<!--
 **What I work with:**
 
 * Designing clean, layered architectures (and knowing when to break them)
 * Building secure, production‑ready REST APIs
 * Writing code that prioritizes clarity, performance, and correctness
 * Making backend systems observable, reliable, and boring in production
-
+-->
 ---
 
 ## Core Expertise
@@ -60,20 +60,15 @@
 
 ---
 
-## GitHub by the Numbers
+| GitHub Stats | GitHub Streak |
+|-------------|---------------|
+| <img width="420" src="https://github-readme-stats.vercel.app/api?username=atymri&show_icons=true&hide_border=true&theme=github_dark" /> | <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=atymri&theme=github-dark" /> |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atymri&show_icons=true&hide_border=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atymri&theme=github-dark" />
-</p>
-
+<!--
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atymri&theme=github_dark" />
 </p>
-
+-->
 ---
 
 ## Current Focus
