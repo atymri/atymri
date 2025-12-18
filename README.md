@@ -17,11 +17,9 @@
 
 <img align="right" width="45%" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I’m a backend developer focused on **building fast, scalable, and maintainable systems** using the .NET ecosystem.
+>I’m a backend developer focused on **building fast, scalable, and maintainable systems** using the .NET ecosystem I care deeply about **architecture quality**, **performance**, and **long‑term maintainability**. I enjoy designing systems that stay clean under pressure and scale without surprises.
 
-I care deeply about **architecture quality**, **performance**, and **long‑term maintainability**. I enjoy designing systems that stay clean under pressure and scale without surprises.
-
-**What I work with daily:**
+**What I work with:**
 
 * Designing clean, layered architectures (and knowing when to break them)
 * Building secure, production‑ready REST APIs
