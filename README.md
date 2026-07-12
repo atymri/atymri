@@ -2,8 +2,8 @@
   <img src="header.png" width="100%" />
 </p>-->
 
-<h1 align="center">Amir Mahdi Teymouri</h1>
-<p align="center"><strong>Backend Engineer · .NET / ASP.NET Core · High‑Performance Systems</strong></p>
+<h1 align="center">Amirmahdi Teymouri</h1>
+<p align="center"><strong>Backend Developer · .NET / ASP.NET Core · </strong></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amirmahdi-teymouri-6994952ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
