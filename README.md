@@ -11,7 +11,7 @@
   <a href="mailto:am.tymri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
----
+
 
 ## Who I Am?
 
@@ -58,13 +58,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
 
+<!--
+---
 | GitHub Stats | GitHub Streak |
 |-------------|---------------|
 | <img width="420" src="https://github-readme-stats.vercel.app/api?username=atymri&show_icons=true&hide_border=true&theme=github_dark" /> | <img width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=atymri&theme=github-dark" /> |
 
-<!--
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atymri&theme=github_dark" />
 </p>
